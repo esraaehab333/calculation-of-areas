@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">areas2</string>
+    <string name="areas_width_rectangle_hint">width</string>
+    <string name="areas_height_rectangle_hint">height</string>
+    <string name="areas_radius_circle_hint">radius</string>
+    <string name="areas_width_triangle_hint">base</string>
+    <string name="areas_height_triangle_hint">height</string>
+    <string-array name="shape">
+        <item>Select shape</item>
+        <item>Rectangle</item>
+        <item>Circle</item>
+        <item>Triangle</item>
+    </string-array>
+</resources>
